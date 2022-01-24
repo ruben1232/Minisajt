@@ -1,0 +1,80 @@
+body {
+    background-color: white;
+}
+
+.deadlift {
+    width: 150px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.deadlift2 {
+    width: 150px;
+    height: 100px;
+    margin-left: 830px;
+}
+
+nav {
+    text-align: right;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 40px;
+    border: black solid 3px;
+    padding: 5px;
+
+}
+
+.titel {
+    margin-left: 40%;
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+}
+
+.info {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 20px;
+    border-top: black solid 4px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.squat {
+    height: 600px;
+    margin-right: 150px;
+    
+}
+
+.sumodeadlift {
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.rad {
+    display: flex;
+}
+
+.kolumn {
+    padding: 5px;
+    flex: 50%;
+}
+
+.deadliftinfo {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.benchpressandsquatinfo {
+    display: flex;
+}
+
+.benchpressinfo {
+    font-family: 'Fjalla One', sans-serif;
+    flex: 50%;
+}
+
+.squatinfo {
+    font-family: 'Fjalla One', sans-serif;
+    flex: 50%;
+}
